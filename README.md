@@ -58,7 +58,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KalaHarshal?theme=dark&font=Baloo&ext=heatmap)
 
 ### 💻 GeeksforGeeks  
-![GeeksforGeeks Stats](https://geeks-for-geeks-stats.vercel.app/?username=kalaharshal)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/kalaharshal/)
+
 
 ---
 
