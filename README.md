@@ -21,8 +21,8 @@
 - Python, C, C++, SQL, Dart  
 
 ### ⚙️ Frameworks & Tools  
-- **Flutter** (Mobile App Development)  
-- Flask (Backend & ML Deployment)  
+- **Flutter** – Cross-platform mobile app development  
+- Flask – Backend & ML deployment  
 - NumPy, Pandas, Matplotlib, Scikit-learn  
 - Git & GitHub  
 
@@ -31,31 +31,41 @@
 - Data Science  
 - Backend Development  
 - **Cross-platform Mobile App Development (Flutter)**  
+- Data Structures & Algorithms  
 
 ---
 
 ## 📂 Projects  
 🔹 **Machine Learning Projects** – Classification, regression & prediction models  
-🔹 **Flask Web Apps** – ML model deployment & APIs  
-🔹 **Flutter Apps** – Cross-platform mobile apps (UI + logic)  
+🔹 **Flask Web Apps** – ML model deployment & REST APIs  
+🔹 **Flutter Apps** – Cross-platform mobile applications (UI + logic)  
 🔹 **Data Analysis** – Cleaning, visualization & insights  
 
 > Explore my repositories to see what I’m building 🚀
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats  
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalaHarshal&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalaHarshal&layout=compact&theme=tokyonight)
 
 ---
 
+## 🧩 Coding Profiles Stats  
+
+### 🧠 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/KalaHarshal?theme=dark&font=Baloo&ext=heatmap)
+
+### 💻 GeeksforGeeks  
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats.vercel.app/?username=kalaharshal)
+
+---
+
 ## 🤝 Connect With Me  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/harshal-kala 
-- 💻 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/kalaharshal
-- 🧠 **LeetCode:** https://leetcode.com/KalaHarshal
-  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/harshal-kala  
+- 💻 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/kalaharshal  
+- 🧠 **LeetCode:** https://leetcode.com/KalaHarshal  
 
 ---
 
