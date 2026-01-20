@@ -2,42 +2,45 @@
 
 🎓 **Computer Science Student**  
 💻 **Aspiring Machine Learning & Software Engineer**  
-📊 **Data Science | ML | Backend Development**
+📊 **Data Science | Machine Learning | Flutter Developer**
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **Machine Learning, Data Science, and Backend Development**
-- 🧠 Interested in **predictive modeling, real-world ML applications, and problem solving**
-- 🛠️ Building projects using **Python, Flask, SQL, and Flutter**
+- 🌱 Currently learning **Machine Learning, Data Science, and Flutter Development**
+- 🧠 Passionate about **problem solving, predictive modeling, and app development**
+- 🛠️ Building **ML models**, **Flask web apps**, and **Flutter mobile apps**
 - 🧪 Actively participating in **Kaggle competitions**
-- 📈 Believe in learning by **building, experimenting, and improving**
+- 📈 Believe in learning by **building real-world projects**
 
 ---
 
 ## 🧰 Tech Stack  
-**Languages:**  
-- Python, C, C++, SQL  
 
-**Frameworks & Tools:**  
-- Flask, Flutter  
+### 💻 Languages  
+- Python, C, C++, SQL, Dart  
+
+### ⚙️ Frameworks & Tools  
+- **Flutter** (Mobile App Development)  
+- Flask (Backend & ML Deployment)  
 - NumPy, Pandas, Matplotlib, Scikit-learn  
 - Git & GitHub  
 
-**Domains:**  
+### 🧠 Domains  
 - Machine Learning  
 - Data Science  
 - Backend Development  
+- **Cross-platform Mobile App Development (Flutter)**  
 
 ---
 
 ## 📂 Projects  
 🔹 **Machine Learning Projects** – Classification, regression & prediction models  
-🔹 **Flask Web Apps** – ML model deployment  
+🔹 **Flask Web Apps** – ML model deployment & APIs  
+🔹 **Flutter Apps** – Cross-platform mobile apps (UI + logic)  
 🔹 **Data Analysis** – Cleaning, visualization & insights  
-🔹 **Flutter Apps** – Beginner-friendly mobile applications  
 
-> Check out my repositories to see what I’m working on 🚀
+> Explore my repositories to see what I’m building 🚀
 
 ---
 
@@ -48,11 +51,12 @@
 
 ---
 
-## 🤝 Let's Connect  
-- 💼 Open to **internships, learning opportunities, and collaborations**
-- 🌐 Kaggle: *add your link*  
-- 💌 Feel free to explore my repos and connect!
+## 🤝 Connect With Me  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/harshal-kala 
+- 💻 **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/kalaharshal
+- 🧠 **LeetCode:** https://leetcode.com/KalaHarshal
+  
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*  
+⭐ *If you like my work, consider starring my repositories!*  
